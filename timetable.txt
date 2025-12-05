@@ -1,0 +1,34 @@
+CSE,Monday,Maths,DSA,DL
+CSE,Tuesday,C Prog,DBMS,DSA Lab
+CSE,Wednesday,OS,CN,DBMS Lab
+CSE,Thursday,AI,Maths,OS Lab
+CSE,Friday,Python,Elective,AI Lab
+CSE,Saturday,Project Work,Seminar,Workshop
+
+ECE,Monday,Circuits,Signals,DE
+ECE,Tuesday,EMI,Networks,Signals Lab
+ECE,Wednesday,Microprocessors,DE,MP Lab
+ECE,Thursday,Control Systems,EMI,CE Lab
+ECE,Friday,AI,Python,Elective
+ECE,Saturday,Project Work,Seminar,Workshop
+
+EEE,Monday,Power Systems,EMT,Circuits
+EEE,Tuesday,Maths,Signals,PS Lab
+EEE,Wednesday,EMI,Control Systems,CS Lab
+EEE,Thursday,Digital Logic,Maths,DL Lab
+EEE,Friday,AI,Python,Elective
+EEE,Saturday,Project Work,Seminar,Workshop
+
+MECH,Monday,Thermo,Maths,Mechanics
+MECH,Tuesday,FM,MP,FM Lab
+MECH,Wednesday,Design,MP,Design Lab
+MECH,Thursday,CAM,Maths,CAM Lab
+MECH,Friday,AI,Python,Elective
+MECH,Saturday,Project Work,Seminar,Workshop
+
+CIVIL,Monday,SOM,Surveying,Maths
+CIVIL,Tuesday,FM,Structures,FM Lab
+CIVIL,Wednesday,Design,SOM,Design Lab
+CIVIL,Thursday,Surveying,Maths,Survey Lab
+CIVIL,Friday,AI,Python,Elective
+CIVIL,Saturday,Project Work,Seminar,Workshop
